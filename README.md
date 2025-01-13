@@ -66,10 +66,7 @@ Here are some highlights of the analysis:
 📌 Wage Distribution by Industry
 
 🤝 Contributing
-We welcome contributions! Here's how to get involved:
 
-Fork the repository.
-Create a feature branch: git checkout -b feature-name.
-Commit your changes: git commit -m "Add feature description".
-Push to the branch: git push origin feature-name.
-Open a Pull Request.
+
+
+
